@@ -25,11 +25,11 @@ In this case study, we will follow the six steps Data Analysis Process which we 
 
 
 
-### 1.Ask
+### Ask
 *"How can we convert casuals to members?"*
 Here, the director of marketing believes the company’s future success depends on maximizing the number of annual memberships. As a Junior Data Analyst my business task is to understand the behavior of Casual bike riders and annual Members, also provide insights that going to help the marketing team to launch a campaign to convert casual bike riders to annual members.
 
-### 2.Prepare
+### Prepare
 Then the second phase Prepare which means to collect or use data relevant to the problem we are trying to solve. In this case, we will be using Cyclistics historical trip data [click here](https://divvy-tripdata.s3.amazonaws.com/index.html). We have to download twelve csv files; one file represents one month of trip data.
 
 Firstly, we would need to install & load the packages required for this process, which in this case is: “Tidyverse”, “hydroTSM” & “Lubridate”.
@@ -57,7 +57,7 @@ bike_ride <- rbind(jan,feb,mar,april,may,june,july,aug,sep,oct,nov,dec)
 remove(jan,feb,mar,april,may,june,july,aug,sep,oct,nov,dec)
 ```
 
-### 3.Process
+### Process
 The third phase is to process the data. Data processing is to find various inaccuracies, errors, inconsistencies in the data and get rid of them so that our business problem is not affected.
 In order to process the **46,49,054** observations, spreadsheets wouldn’t be able to handle the sheer amount of data. In this case, we would be using RStudio instead.
 
@@ -91,7 +91,7 @@ print(cleaned_rows)
 
 Before cleaning 4731081 rows | After cleaning 4649054 rows
 
-### 4.Analyze
+### Analyze
 The fourth phase is to analyze data by organizing, sorting, filtering and transforming data. Here, I used ggplot2 library in R studio to create various charts to understand the behavior of our bike riders.
 ```{r eval=FALSE}
 #Average Ride Time per Week
@@ -129,7 +129,7 @@ In order to answer our first business question, it would be beneficial to plot a
 5.	Most popular bike among casual and annual members
 6.	Which season casual and annual members love the most.
 
-### 5.Share
+### Share
 The fifth phase is to Share data. We need to create visualizations to share your findings. We can create a Dashboard with Power BI or Tableau. I decided to skip this step for the sake of time as I wanted to analyze using RStudio and report it in R Markdown.
 
 
@@ -166,7 +166,7 @@ The fifth phase is to Share data. We need to create visualizations to share your
 </div>
 
 
-### 6.Act
+### Act
 The sixth phase of data analysis is to use every insight we learnt to solve the problem. We have to provide our stakeholders information that can help them to decide.
 
 1.	We can clearly see a peak in casual riders on a few occasions. On the weekends as well as in the months of June, July & August, we should prioritize marketing.
