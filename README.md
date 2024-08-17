@@ -125,21 +125,37 @@ In order to answer our first business question, it would be beneficial to plot a
 The fifth phase is to Share data. We need to create visualizations to share your findings. We can create a Dashboard with Power BI or Tableau. I decided to skip this step for the sake of time as I wanted to analyze using RStudio and report it in R Markdown.
 
 
-![avg ride time per week](C:/Users/user/Desktop/data analytics/Google data analytics/case_study/images/avg ride time per week.png)
+<div align="center">
+    <img src="https://github.com/user-attachments/assets/a79829c4-5b27-4303-9ad9-8e406f680c2d" />
+</div>
 
-![number of bike riders](C:/Users/user/Desktop/data analytics/Google data analytics/case_study/images/number of bike riders.png)
+<div align="center">
+    <img src="https://github.com/user-attachments/assets/dbd55b99-0055-4b61-a847-74a7232e628a" />
+</div>
 
-![rideable_type](C:/Users/user/Desktop/data analytics/Google data analytics/case_study/images/rideable_type.png)
+<div align="center">
+    <img src="https://github.com/user-attachments/assets/df6f352a-41f6-4887-a781-1b22a135ff40" />
+</div>
 
-![month_wise](C:/Users/user/Desktop/data analytics/Google data analytics/case_study/images/month_wise.png)
+<div align="center">
+    <img src="https://github.com/user-attachments/assets/a71b4973-e01a-4497-a5a8-bc8768923200" />
+</div>
 
-![trip duration](C:/Users/user/Desktop/data analytics/Google data analytics/case_study/images/trip duration.png)
+<div align="center">
+    <img src="https://github.com/user-attachments/assets/f293effd-a934-403e-839f-7f98c367b2e5" />
+</div>
 
-![season wise](C:/Users/user/Desktop/data analytics/Google data analytics/case_study/images/season wise.png)
+<div align="left">
+    <img src="https://github.com/user-attachments/assets/4132a0c5-a621-4947-b8a5-6cf089b3379a" width="850px" height="400px" />
+</div>
 
-![week wise riders](C:/Users/user/Desktop/data analytics/Google data analytics/case_study/images/week wise riders.png)
+<div align="center">
+    <img src="https://github.com/user-attachments/assets/5eab81e5-88f3-4e26-beab-b8732be63b6b" />
+</div>
 
-![week wise](C:/Users/user/Desktop/data analytics/Google data analytics/case_study/images/week wise.png)
+<div align="center">
+    <img src="https://github.com/user-attachments/assets/d8bcdb16-2918-49b5-a9ec-fb672810e3ff" />
+</div>
 
 
 ### 6) Act
