@@ -15,11 +15,11 @@ Cyclistic’s finance analysts have concluded that annual members are much more 
 In this case study, we will follow the six steps Data Analysis Process which we learnt in this course i.e. Ask, Prepare, Process, Analyze, Share, and Act.
 
 ## Sections
-1. [Ask](###ask)
-2. [Prepare](###prepare)
-3. [Process](###process)
-4. [Analyze](###analyze)
-5. [Share](###share)
+1. [Ask](#ask)
+2. [Prepare](#prepare)
+3. [Process](#process)
+4. [Analyze](#analyze)
+5. [Share](#share)
 6. [Act](#act)
   
 
