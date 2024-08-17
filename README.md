@@ -12,9 +12,9 @@ You are a junior data analyst working in the marketing analyst team at Cyclistic
 
 Cyclistic’s finance analysts have concluded that annual members are much more profitable than casual riders. Moreno believes that **maximizing the number of annual members will be key to future growth**. Customers who purchase single-ride or full-day passes are referred to as casual riders. Customers who purchase annual memberships are annual members.Moreno has set a clear goal:Design marketing strategies aimed at converting casual riders into annual members.
 
-In this case study, we will follow the six steps Data Analysis Process which we learnt in this course i.e. Ask, Prepare, Process, Analyze, Share, and Act.
+In this case study, we will follow the six step Data Analysis Process which we learnt in this course i.e. Ask, Prepare, Process, Analyze, Share, and Act.
 
-## Sections
+## Six Step Data Analysis Process:
 1. [Ask](#ask)
 2. [Prepare](#prepare)
 3. [Process](#process)
