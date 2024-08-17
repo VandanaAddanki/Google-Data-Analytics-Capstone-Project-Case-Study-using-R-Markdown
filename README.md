@@ -124,17 +124,22 @@ In order to answer our first business question, it would be beneficial to plot a
 ### 5) Share
 The fifth phase is to Share data. We need to create visualizations to share your findings. We can create a Dashboard with Power BI or Tableau. I decided to skip this step for the sake of time as I wanted to analyze using RStudio and report it in R Markdown.
 
-<p align="center">
-  <img width="460" height="300" src="C:/Users/user/Desktop/data analytics/Google data analytics/case_study/images/avg ride time per week.png">
-</p>
-![avg ride time per week.](C:/Users/user/Desktop/data analytics/Google data analytics/case_study/images/avg ride time per week.png)\
-![number of bike riders.](C:/Users/user/Desktop/data analytics/Google data analytics/case_study/images/number of bike riders.png)\
-![rideable_type.](C:/Users/user/Desktop/data analytics/Google data analytics/case_study/images/rideable_type.png)\
-![month_wise.](C:/Users/user/Desktop/data analytics/Google data analytics/case_study/images/month_wise.png)\
-![trip duration.](C:/Users/user/Desktop/data analytics/Google data analytics/case_study/images/trip duration.png)\
-![season wise.](C:/Users/user/Desktop/data analytics/Google data analytics/case_study/images/season wise.png)\
-![week wise riders.](C:/Users/user/Desktop/data analytics/Google data analytics/case_study/images/week wise riders.png)\
-![week wise.](C:/Users/user/Desktop/data analytics/Google data analytics/case_study/images/week wise.png)\
+
+![avg ride time per week](C:/Users/user/Desktop/data analytics/Google data analytics/case_study/images/avg ride time per week.png)
+
+![number of bike riders](C:/Users/user/Desktop/data analytics/Google data analytics/case_study/images/number of bike riders.png)
+
+![rideable_type](C:/Users/user/Desktop/data analytics/Google data analytics/case_study/images/rideable_type.png)
+
+![month_wise](C:/Users/user/Desktop/data analytics/Google data analytics/case_study/images/month_wise.png)
+
+![trip duration](C:/Users/user/Desktop/data analytics/Google data analytics/case_study/images/trip duration.png)
+
+![season wise](C:/Users/user/Desktop/data analytics/Google data analytics/case_study/images/season wise.png)
+
+![week wise riders](C:/Users/user/Desktop/data analytics/Google data analytics/case_study/images/week wise riders.png)
+
+![week wise](C:/Users/user/Desktop/data analytics/Google data analytics/case_study/images/week wise.png)
 
 
 ### 6) Act
